@@ -1,13 +1,13 @@
 ## Hi there 👋
-<h1 align="center"><img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px"> 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 Gustavo Chavarro Ortiz</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px"> 𝙸'𝚖 Gustavo Chavarro Ortiz</h1>
 </h2>
 
 <p align="center">
-<img width="600" src="https://github.com/gchavarro88/gchavarro88/assets/github-snake.svg" />
+<img width="600" src="https://github.com/gchavarro88/gchavarro88/blob/master/assets/github-snake.svg" />
 </p>
 
 <hr/>
-<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+<img width="35%" align="right" alt="Github" src="https://github.com/gchavarro88/gchavarro88/blob/master/assets/catCode.gif" />
 I am a Senior Software Engineer with over 10 years of experience in software development, primarily focused on Java across multiple versions. Extensive experience with relational databases, hexagonal architecture, service-oriented architectures (SOA), and microservices. Skilled in agile methodologies (Scrum), cross- functional team collaboration, mentoring, technical design, and both manual and automated testing.
 <br/>
 Passionate about delivering high-quality, scalable solutions and continuously improving development processes.
@@ -22,8 +22,12 @@ Passionate about delivering high-quality, scalable solutions and continuously im
 </details>
 <hr/>
 
-
-
+🔭 I’m currently working on Java + React Projects
+- 🌱 I’m currently learning Angual
+- 🤔 I’m looking for help with Java
+- 📫 How to reach me: gustavo.chavarro.or@gmail.com
+- 😄 Pronouns: he/him
+<hr/>
 
 
 <!--
