@@ -29,12 +29,12 @@ Passionate about delivering high-quality, scalable solutions and continuously im
   <br />
 <div style="
             width: 840px; 
-            height:200px;">  
+            height:200px; !important;">  
   <img height="180em" style="max-width: 100%; width: 50%;" align="left" src="https://github-readme-stats.vercel.app/api?username=gchavarro88&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" style="max-width: 100%; width: 45%;" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gchavarro88&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </div>
 
-<hr style="width: 100%;"/>
+<hr style="width: 100% !important;"/>
 <div style="
     box-sizing: content-box;
     height: 120px;
