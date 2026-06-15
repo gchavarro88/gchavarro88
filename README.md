@@ -7,9 +7,14 @@
 </p>
 
 <hr/>
-<div> 
+<div style="height: 350px;"> 
 <img width="35%" align="right" alt="Github" src="https://github.com/gchavarro88/gchavarro88/blob/master/assets/catCode.gif" />
-<p align="left" style="width:65%;"> 
+<p align="left" style="
+    width: 62%;
+    text-align: justify;
+    vertical-align: middle;
+    height: 350px;
+"> 
 I am a Senior Software Engineer with over 10 years of experience in software development, primarily focused on Java across multiple versions. Extensive experience with relational databases, hexagonal architecture, service-oriented architectures (SOA), and microservices. Skilled in agile methodologies (Scrum), cross- functional team collaboration, mentoring, technical design, and both manual and automated testing.
 <br/><br/>
 Passionate about delivering high-quality, scalable solutions and continuously improving development processes.
@@ -22,14 +27,18 @@ Passionate about delivering high-quality, scalable solutions and continuously im
   <h2>⚡ GitHub Stats</h2>
 
   <br />
-<div>  
-  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=gchavarro88&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gchavarro88&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<div style="
+    width: 840px;>  
+  <img height="180em" style="max-width: 100%; width: 50%;" align="left" src="https://github-readme-stats.vercel.app/api?username=gchavarro88&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" style="max-width: 100%; width: 50%;" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gchavarro88&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </div>
 
 <hr/>
-<div>
-<ul>
+<div style="
+    box-sizing: content-box;
+    height: 120px;
+    vertical-align: bottom;">
+<ul style="margin-top: 200px;">
     <li>🔭 I’m currently working on Java + React Projects</li>
     <li>🌱 I’m currently learning Angular</li>
     <li>🤔 I’m looking for help with Java</li>
