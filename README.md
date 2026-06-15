@@ -9,10 +9,12 @@
 <hr/>
 <div> 
 <img width="35%" align="right" alt="Github" src="https://github.com/gchavarro88/gchavarro88/blob/master/assets/catCode.gif" />
+<p align="left" style="width:65%;"> 
 I am a Senior Software Engineer with over 10 years of experience in software development, primarily focused on Java across multiple versions. Extensive experience with relational databases, hexagonal architecture, service-oriented architectures (SOA), and microservices. Skilled in agile methodologies (Scrum), cross- functional team collaboration, mentoring, technical design, and both manual and automated testing.
 <br/><br/>
 Passionate about delivering high-quality, scalable solutions and continuously improving development processes.
 <br/><br/>
+</p>
 
 </div>
 <hr/>
