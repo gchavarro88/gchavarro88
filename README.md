@@ -8,7 +8,7 @@
 
 <hr/>
 <div style="height: 350px;"> 
-<img width="35%" align="right" alt="Github" src="https://github.com/gchavarro88/gchavarro88/blob/master/assets/catCode.gif" />
+<img width="20%" align="right" alt="Github" src="https://github.com/gchavarro88/gchavarro88/blob/master/assets/catCode.gif" />
 <p align="left" style="
     width: 62%;
     text-align: justify;
@@ -29,7 +29,7 @@ Passionate about delivering high-quality, scalable solutions and continuously im
   <br />
 <div style="width: 840px;">  
   <img height="180em" style="max-width: 100%; width: 50%;" align="left" src="https://github-readme-stats.vercel.app/api?username=gchavarro88&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" style="max-width: 100%; width: 50%;" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gchavarro88&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" style="max-width: 100%; width: 45%;" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gchavarro88&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </div>
 
 <hr/>
