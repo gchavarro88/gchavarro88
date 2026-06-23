@@ -20,10 +20,6 @@ I am a Senior Software Engineer with over 10 years of experience in software dev
 Passionate about delivering high-quality, scalable solutions and continuously improving development processes.
 <br/><br/>
 </p>
-<a href="https://pibumemory.onrender.com/">Memory Game</a> 
-<img src="/" alt="Memory game to enjoy" width="500" height="300">
-<a href="https://myvitalhabit.onrender.com/">MyVitalHabit</a> 
-<img src="img_girl.jpg" alt="My Vital Habit app" width="250" height="500">
 </div>
 <hr/>
 
@@ -51,6 +47,14 @@ Passionate about delivering high-quality, scalable solutions and continuously im
     <li>📫 How to reach me: gustavo.chavarro.or@gmail.com</li>
     <li>😄 Pronouns: he/him</li>
 </ul>
+</div>
+<div> 
+
+<a href="https://pibumemory.onrender.com/">Memory Game</a> 
+<a href="https://myvitalhabit.onrender.com/">MyVitalHabit</a> 
+<p>.</p>
+<img src="https://github.com/gchavarro88/gchavarro88/blob/master/assets/pibunoMemory.png" alt="Memory game to enjoy" align="left" width="500" height="300">
+<img src="https://github.com/gchavarro88/gchavarro88/blob/master/assets/myVitalHabit.png" alt="My Vital Habit app" align="right" width="250" height="500">
 </div>
 <hr/>
 
