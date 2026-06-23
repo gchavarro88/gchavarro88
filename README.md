@@ -50,13 +50,14 @@ Passionate about delivering high-quality, scalable solutions and continuously im
 </div>
 <div> 
 
+<hr/>
+
 <a href="https://pibumemory.onrender.com/">Memory Game</a> 
 <a href="https://myvitalhabit.onrender.com/">MyVitalHabit</a> 
 <p>.</p>
 <img src="https://github.com/gchavarro88/gchavarro88/blob/master/assets/pibunoMemory.png" alt="Memory game to enjoy" align="left" width="500" height="300">
 <img src="https://github.com/gchavarro88/gchavarro88/blob/master/assets/myVitalHabit.png" alt="My Vital Habit app" align="right" width="250" height="500">
 </div>
-<hr/>
 
 
 <!--
